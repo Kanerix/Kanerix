@@ -7,7 +7,7 @@
 
 - I mostly do full stack development
 
-If you wan't to know more about me, you can find my portfolio at [www.zevon.dk](www.zevon.dk)
+If you wan't to know more about me, you can find my portfolio at [www.zevon.dk](https://www.zevon.dk/)
 
 ## Tools and Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
