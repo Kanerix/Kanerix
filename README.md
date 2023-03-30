@@ -7,7 +7,7 @@
 
 - I mostly do full stack development
 
-If you wan't to know more about me, you can find my portfolio at [www.artilun.com](https://www.artilun.com/)
+If you wan't to know more about me, you can find my portfolio at [artilun.com](https://artilun.com/)
 
 ## Tools and Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
