@@ -7,7 +7,7 @@
 
 - I mostly do full stack development
 
-If you wan't to know more about me, you can find my portfolio at [portfolio.artilun.com](https://portfolio.lerpz.com/)
+If you wan't to know more about me, you can find my portfolio at [portfolio.lerpz.com](https://portfolio.lerpz.com/)
 
 ## Tools and Languages
 ![RUST](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
