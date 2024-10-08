@@ -1,6 +1,6 @@
 # Hi, I’m Kanerix 👋
 
-A mainly Rust developer. 
+A mainly Rust developer.
 
 ## About Me
 
@@ -17,8 +17,8 @@ If you wan't to know more about me, you can find my portfolio at [portfolio.lerp
 <a href="https://www.linkedin.com/in/kasper-jonsson/" target="_blank">![LinkedIn](https://img.shields.io/badge/-Kasper%20Jønsson-000000?style=for-the-badge&logo=linkedin)</a>
 <a href="mailto:dkkasjoe@hotmail.com" target="_blank">![LinkedIn](https://img.shields.io/badge/-dkkasjoe@hotmail.com-000000?style=for-the-badge&logo=gmail)</a>
 
-
 ## Tools and Languages
+
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 ![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
@@ -28,8 +28,8 @@ If you wan't to know more about me, you can find my portfolio at [portfolio.lerp
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=Kubernetes)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=for-the-badge&logo=terraform)
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
-
