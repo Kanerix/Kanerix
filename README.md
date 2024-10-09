@@ -8,7 +8,7 @@ A mainly Rust developer.
 
 - 💼 I'm currently a student assistant at [Egmont](https://www.egmont.dk/).
 
-- 💻 I do most of the programming, especially front-end and back-end applications.
+- 💻 I especially love programming front-end and back-end applications.
 
 If you wan't to know more about me, you can find my portfolio at [portfolio.lerpz.com](https://portfolio.lerpz.com/)
 
