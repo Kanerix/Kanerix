@@ -24,6 +24,7 @@ If you wan't to know more about me, you can find my portfolio at [portfolio.lerp
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 
+![NodeJS](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 
