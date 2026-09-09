@@ -1,4 +1,4 @@
-# Hi, I’m Kanerix 👋
+# Hi, I’m Kasper 👋
 
 A mainly Rust developer.
 
